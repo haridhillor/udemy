@@ -1,0 +1,68 @@
+
+
+#Unix Command line
+
+install git 
+select git bash in vscode terminal.
+select default profile. in command pallet it will set git as default for terminals
+
+BASH BOURNE AGAIN SHELL 
+BASH is command line interface for unix systems
+
+command line is all about speed and more control over the hardware
+
+mkdir name ;
+
+hacker typer.com 😂😁
+
+ls 
+list files and directries
+
+cd 
+to change directries
+
+..cd to go back
+
+cd~ to go to root
+
+up and down arrow to take last used command
+
+can HOLD alt button to write in between the commands in terminal
+
+ctrl + A to move to start of a command 
+ctrl+ E to move to the end
+ctrl+ u to clear commmand without executing it 
+
+
+To create file
+touch fileName.extension
+
+To open file
+start filename.extension
+
+To open to work in same window of vs code
+code text.txt 
+
+To remove file
+rm filename
+
+To remove all file
+rm *
+
+clear
+ to clear cli
+
+pwd to print working directries command 
+
+GReat power comes with the greater responsibility.
+
+To remove directries
+rm -r directriName
+
+
+wipe off data from where it could not be recovered it is very dangerous
+
+sudo rm -rf --no-preserve-root/
+
+command line tutorial 
+learn command line to be dangerous

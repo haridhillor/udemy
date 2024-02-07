@@ -1,0 +1,14 @@
+
+
+function 
+
+use 
+ctl +f to replace all in snippets code
+
+function getMilk(){
+
+    console.log("hello");
+    console.log("Hari g");
+}
+
+getMilk();

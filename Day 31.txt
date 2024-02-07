@@ -1,0 +1,75 @@
+
+get and set attributes using jquery
+
+var source =$("img").attr("src");
+console.log(source);
+
+$("a").attr("href","//https:www.google.com");
+
+
+Event listner in jquery
+
+$("h1").click(function(){
+  $("h1").css("color","purple");
+});
+
+
+j query eliminate the need of loop by selecting all elements
+
+$("button").click(function(){
+  $("h1").css("color","purple");
+});
+
+
+
+$("input").keypress(function(event){
+
+  console.log(event.key);
+});
+
+
+$("h1").on("mouseover",function(){
+  $("h1").css("color","purple");
+})
+
+
+
+Adding html elements 
+
+$("h1").before("<button>new</button>");
+$("h1").after("<button>new</button>");
+$("h1").prepend("<button>new</button>"); befor the content of h1
+$("h1").append("<button>new</button>");   after the content of h1
+
+
+$("button").remove();
+
+
+Adding animation with jquery
+
+$("h1").hide();
+$("h1").show();
+$("h1").toggle();
+
+$("h1").fadeout();
+$("h1").fadein();
+$("h1").fadeToggle();
+
+
+$("h1").slideUp();
+$("h1").slideDown();
+$("h1").slidetoggle();
+ 
+
+
+Animate only work for those css properety which have numric value 
+
+ $("button").on("click",function(){
+
+  $("h1").animate({opacity:"0.5"});
+});
+
+$("button").on("click",function(){
+
+  $("h1").slideUp().slideDown().animate({opacity:"0.5"});
+});

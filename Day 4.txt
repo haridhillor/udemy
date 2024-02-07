@@ -1,0 +1,10 @@
+
+LIST
+ol
+ul
+use of img tag
+use of anchors tag
+
+websites
+photobucket.com
+crop-circle.imageonline.com

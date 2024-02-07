@@ -1,0 +1,34 @@
+Bootstrap
+A front end library
+
+CDN->content dilivery network
+we can include bootstrap css and javascript files int our site or we can download them
+
+wireframing
+Wireframing is a process where designers draw overviews of interactive products to establish the structure and flow of possible design solutions.
+
+
+mock-up
+
+
+front end
+html 
+css
+javaScript
+
+Backend
+php 
+ruby 
+.net
+java
+nodeJs
+sQl
+
+
+website
+codeplay->to write  html css js with bootstrap
+derrible-refrence for web design
+blasmique.cloud -> for wireframing
+sneakpeekit
+
+ctrl+f to search

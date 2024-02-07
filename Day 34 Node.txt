@@ -1,0 +1,24 @@
+
+
+Why to use framework
+Reuse component reduce overhead
+
+networking 
+data stream
+reading files
+writing files
+debugger
+error code 
+debugger
+tests 
+url strings 
+
+Node.js 
+it is not a framework 
+it is an asynchronous event driven javascript runtime. Node.js is used to build scalable network application
+
+node.js allow javascript to build any application it gives liberty to javascript;
+
+ asynchronous-> it is non blocking .
+
+ node -v to check version

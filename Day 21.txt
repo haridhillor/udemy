@@ -1,0 +1,31 @@
+
+javascript can be turned off for the browser to block the adds 
+
+ios -> swift;
+android app-> java 
+web applications-> javascript
+
+
+
+
+interpreter 
+convert code from high level to machine level code just line by line
+
+compiler
+it convert code from high level to machine level in one go.
+
+
+JavaScript  ( MDN Web Docs for refrence)
+
+chrome->3 dots ->more tools->developer tool for javaScript console.
+
+we can add alert here 
+
+alert( "hello" );
+
+To add multiple alerts use Shift + Enter key.
+
+we use js console to test the code 
+while we use snippets to write complete code and run it 
+
+snippets can be found in source page.

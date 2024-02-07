@@ -1,0 +1,22 @@
+
+doctype in boiler plate tells about the version of html and type of file 
+content of head give extra information to the browser about the content of your website
+and unicode system
+
+FOR ITALIC
+<i> tag
+<em> tag
+
+FOR BOLD
+<b> tag
+<strong> tag
+
+websites
+docs.emmet.io
+unicode table.com 
+devloper.mozzila.org
+
+shortcut
+ctr+f to search in view source page
+
+discription of website in view source page is shown on the google serach of website

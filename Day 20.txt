@@ -1,0 +1,55 @@
+web design 
+
+1 color theory
+
+red
+love ,energy ,intensity
+
+yellow 
+joy ,intellect ,attention
+
+green 
+freshness, safety ,growth
+
+blue 
+stabilty ,trust,serenity
+
+purple
+royality ,wealth famininity
+
+Analogous color scheme 
+
+
+website
+colourhunt 
+adobe color
+
+
+
+2 typography
+
+use fonts carefully 
+dont mix too much fonts
+
+3 user interface (UI)
+
+text-length  -> not too much wider
+layout
+alignment
+white space
+audience
+
+
+
+4 user experience (UX)
+
+simplicity
+consistency in design
+user reading pattern
+f and z layout of website
+responsive 
+bad pattern
+
+
+
+  

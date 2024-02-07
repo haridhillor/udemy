@@ -1,0 +1,5 @@
+container 
+A Completely responsive container with some space on both side of viewport
+
+container-fluid 
+occupie complete width of screen and also responsive according to the size of viewport

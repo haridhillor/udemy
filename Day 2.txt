@@ -1,0 +1,26 @@
+HTML 
+XML
+GML
+Usefull website
+codepen.com
+devdocs.io
+W3 school
+wayback machine
+
+headings
+hr 
+br 
+center tag
+
+
+## Code
+
+<center>
+  <hr size="3" noshade>
+<h1>hello</h1>
+<br>
+<h3>Mr.</h3>
+<br>
+<h2>Hari Dhillor</h2>
+  <hr size="3" noshade>
+</center>

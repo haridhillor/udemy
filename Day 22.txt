@@ -1,0 +1,25 @@
+
+Data types
+
+2+3  press enter
+= 5 at console 
+we can show operations result in alert as well
+
+typeof();
+
+variable 
+
+keyword var
+
+var yourName=prompt("Hello Dear! what is your name ?");
+alert("Welcome! Mr."+yourName);
+
+
+clear console
+
+ctrl + l or cosole.clear()
+
+to empty cache or for hard relode
+open developer tool and hold the relode button 
+
+naming variables carefully

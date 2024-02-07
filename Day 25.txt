@@ -1,0 +1,19 @@
+
+
+karel chess board for javaScript
+
+math.floor()  to round down 
+
+
+Random number in js
+16 decimal place number between 0 to 1
+
+var n=math.random();
+
+We use three equal symbol to compare two things in javascript
+
+=== check for equality as well as for data type 
+== only check for equality 
+
+Array 
+arr.includes(x); 

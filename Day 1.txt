@@ -1,0 +1,16 @@
+How internet works
+it is web of huge wire connecting the whole world
+first client make a request through internet service provider then it goes to domain name system server then it return the actual ip address of website using this ip address we can easily access our website
+
+when we make a request using ip address html css and js files render in our browser
+techchrunch website -->for tech news 
+developer tool
+when we refresh the page in which we have made changes using developer tool changes get disappera bcz a fresh file will be requested from server 
+
+tips
+try to understand concepts instead of copying code
+when a topic become hard read around it
+stucking is good 
+
+installed atom and its packages
+window +shift +s to take selected screen screenshot

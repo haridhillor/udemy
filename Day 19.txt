@@ -1,0 +1,7 @@
+
+we can use ids to navigate through the website 
+refracting our code 
+1 readability 
+2 modularity 
+3 efficiency 
+4 length

@@ -1,0 +1,68 @@
+
+debugger
+
+
+#object
+
+var student={
+name:"Hari",
+branch:"It",
+Roll_no:20001011024,
+friendList:["Aman","Jatin","jigar"]
+}
+
+
+ # Constructor function
+
+function StudentCreater(name,branch,roll_no)
+{
+    this.name=name;
+    this.branch=branch;
+    this.roll_no=roll_no;
+    this.coding=function(){
+        alert("i am coding");
+    }
+}
+
+var student= new StudentCreater("Hari","It",20001011024);
+student.coding();
+
+
+
+Switch case;
+
+
+document.addEventListener("keypress/keydown",function(event){
+
+makeSound(event.key);
+})
+
+
+CUSTOM EVENT LISTENER 
+
+function eventListener(type,call_back)
+{
+    var object={
+    type:"keypress",
+    key:"K"}
+    
+if(object.type===type)
+    call_back(object);
+    
+}
+
+eventListener("keypress",function(){
+console.log("hello g");
+              }) 
+              
+
+# Add Animation
+function animation(key)
+{
+  var btn=document.querySelector("."+ key)
+  btn.classList.add("pressed");
+
+  setTimeout(function(){
+    btn.classList.remove("pressed");
+  },100);
+} 

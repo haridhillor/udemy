@@ -1,0 +1,17 @@
+
+
+Adding javaScript to website 
+
+1 inline javaScript
+2 internal javaScript
+3 External javaScript
+
+put your javascript file at the bottom of body of website 
+
+document objec module(Dom)
+
+var heading =document.firstElementChild.lastElementChild.firstElementChild;
+heading.innerHTML="Hello G";
+heading.style.color="red";
+
+document.querySelector("input").click();

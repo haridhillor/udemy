@@ -1,0 +1,51 @@
+
+# Add event listners(event,function);
+$0 indicates title
+
+shift +enter to write multiple lines in chrome deverloper tool;
+
+document.querySelector("button").addEventListener("click",handleClick);
+
+function handleClick()
+{
+alert("i am clicked");
+}
+
+
+# Another way 
+
+document.querySelector("button").addEventListener("click",function() {
+alert("i am clicked");
+});
+
+# Higer order function
+The funtion which take other function as an input are called higher order function
+
+
+
+function add(x,y)
+{
+    return x+y;
+}
+
+function subtract(x,y)
+{
+    return x-y;
+}
+
+function multiply(x,y)
+{
+    return x*y;
+}
+
+function divide(x,y)
+{
+    return x/y;
+}
+
+function calculator(x,y,opertor)
+{
+    return opertor(x,y);
+}
+
+calculator(4,5,subtract);

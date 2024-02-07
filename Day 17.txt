@@ -1,0 +1,4 @@
+# Z-index in css 
+
+used to alter the stacking order of the html elements 
+it only works when html elements are positioned 

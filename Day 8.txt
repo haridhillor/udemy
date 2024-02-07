@@ -1,0 +1,10 @@
+adding favicon
+margin and padding
+visibility 
+display inline
+display block 
+display inline block
+display none
+
+website
+favicon.cc

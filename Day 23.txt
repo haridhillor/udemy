@@ -1,0 +1,19 @@
+
+ctrl + forward_slace =comment
+
+slice function
+
+str.slice(start,end);
+
+var greet=prompt("write your tweet here");
+var output=greet.slice(0,140);
+alert("here is your tweet "+output);
+
+var name="hari";
+name= name.toUpperCase();
+toLowerCase();
+
+
+Human age of dogs 
+
+HumanAge=(dogAge-2)*4+21

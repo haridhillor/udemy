@@ -1,0 +1,14 @@
+css
+
+inline css
+color in css
+
+External css
+use style tag in head
+debugging uisng chrome developer tool
+
+priority
+inline css>internal css>> external css
+
+website
+color hunt.in

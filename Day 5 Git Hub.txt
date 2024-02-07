@@ -1,0 +1,20 @@
+Html Table 
+cell spacing in table
+Forms
+with submission in email account 
+
+Add emoji 
+window+. 
+or
+window+;
+
+host our personal site on the github😍
+
+
+At GitHub 
+upload all files by creating new repository
+home page file must be named as index.html
+after uploading go to setting 
+then to pages 
+then to branch
+chose branch as main save it you find a public link thats done

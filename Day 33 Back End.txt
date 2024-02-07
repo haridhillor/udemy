@@ -1,0 +1,28 @@
+
+
+# Front End 
+Html 
+css 
+javascript (React.js , Angular and vue.js)
+
+Y combinator
+
+# BackEnd 
+
+server
+
+application
+logic 
+how applicaton respond to the request
+
+database
+
+
+Back End technologies
+
+java-->spring
+ruby-->on rails
+c#-->asp.net
+python--> dj and flask
+php-->larvel
+js-->node.js

@@ -1,0 +1,5 @@
+css selectors
+id and classes
+psuedo selectors
+tag name :hover
+

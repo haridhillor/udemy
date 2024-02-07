@@ -1,0 +1,12 @@
+css positioning 
+static default 
+relative specific from the default positon 
+fixed->to stick element on the screen
+absolute->position relative to the parent element
+
+centering the element 
+using text-align ->only works on inline element 
+for block element margin auto can be used
+
+fonts
+sacremento - good font

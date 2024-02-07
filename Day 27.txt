@@ -1,0 +1,46 @@
+Get property
+set property
+method
+
+# Properties 
+innerHTML
+style
+firstChild
+
+
+# Method
+onclick()
+appendChild()
+setAttributes()
+
+
+document.getElementsByTagName("li").length;
+
+document.getElementsByTagName("li")[1];
+<li>​::marker​"Hari g"</li>​
+document.getElementsByTagName("li")[1].style.color="red";
+
+document.getElementsByClassName
+document.getElementById
+
+document.querySelector( id or class or tagname or mixup );
+document.querySelectorAll()
+
+
+
+styles should be in css and behaviour should be in javaScript
+
+document.querySelector("input").classList;
+document.querySelector("input").classList.add("input);
+document.querySelector("input").classList.remove("input");
+document.querySelector("input").classList.toggle("input");
+
+innerHTML vs textcontent
+
+
+document.querySelector("a").attributes;
+document.querySelector("a").getAttribute("href");
+document.querySelector("a").setAttribute("href","https://wellfound.com/jobs");
+
+
+

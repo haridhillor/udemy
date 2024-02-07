@@ -1,0 +1,20 @@
+#carousel 
+to slide sections 
+can add our desired properties like pausing slideshow on hover 
+we can also set delay time 
+keyboard action etc
+
+#cards in bootstrap
+
+
+<div class=card>
+
+   <div class="header">
+
+   </div>
+
+   <div class="body">
+
+   </div>
+
+</div>
